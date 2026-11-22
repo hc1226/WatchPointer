@@ -8,3 +8,11 @@ Mac/.swiftpm/
 xcuserdata/
 DerivedData/
 *.xcuserstate
+
+# Local deployment artifacts, logs, signing material and backups
+.local/
+*.mobileprovision
+*.p12
+*.p8
+*.ipa
+*.xcarchive/
